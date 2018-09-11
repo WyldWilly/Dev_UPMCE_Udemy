@@ -1,0 +1,7 @@
+E:\Dev UPMCE Udemy\csharp-tutorial-for-beginners\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+E:\Dev UPMCE Udemy\csharp-tutorial-for-beginners\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+E:\Dev UPMCE Udemy\csharp-tutorial-for-beginners\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+E:\Dev UPMCE Udemy\csharp-tutorial-for-beginners\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojAssemblyReference.cache
+E:\Dev UPMCE Udemy\csharp-tutorial-for-beginners\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+E:\Dev UPMCE Udemy\csharp-tutorial-for-beginners\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+E:\Dev UPMCE Udemy\csharp-tutorial-for-beginners\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb

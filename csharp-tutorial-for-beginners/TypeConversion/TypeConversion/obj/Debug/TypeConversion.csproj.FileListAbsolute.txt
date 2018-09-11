@@ -1,0 +1,7 @@
+E:\Dev UPMCE Udemy\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+E:\Dev UPMCE Udemy\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+E:\Dev UPMCE Udemy\TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+E:\Dev UPMCE Udemy\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csprojAssemblyReference.cache
+E:\Dev UPMCE Udemy\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+E:\Dev UPMCE Udemy\TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+E:\Dev UPMCE Udemy\TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb

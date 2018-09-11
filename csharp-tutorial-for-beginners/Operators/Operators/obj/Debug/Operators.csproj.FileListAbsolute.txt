@@ -1,0 +1,7 @@
+E:\Dev UPMCE Udemy\Operators\Operators\bin\Debug\Operators.exe.config
+E:\Dev UPMCE Udemy\Operators\Operators\bin\Debug\Operators.exe
+E:\Dev UPMCE Udemy\Operators\Operators\bin\Debug\Operators.pdb
+E:\Dev UPMCE Udemy\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+E:\Dev UPMCE Udemy\Operators\Operators\obj\Debug\Operators.exe
+E:\Dev UPMCE Udemy\Operators\Operators\obj\Debug\Operators.pdb
+E:\Dev UPMCE Udemy\Operators\Operators\obj\Debug\Operators.csprojAssemblyReference.cache

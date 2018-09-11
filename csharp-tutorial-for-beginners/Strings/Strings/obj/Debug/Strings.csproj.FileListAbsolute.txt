@@ -1,0 +1,7 @@
+E:\Dev UPMCE Udemy\csharp-tutorial-for-beginners\Strings\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+E:\Dev UPMCE Udemy\csharp-tutorial-for-beginners\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+E:\Dev UPMCE Udemy\csharp-tutorial-for-beginners\Strings\Strings\bin\Debug\Strings.exe.config
+E:\Dev UPMCE Udemy\csharp-tutorial-for-beginners\Strings\Strings\bin\Debug\Strings.exe
+E:\Dev UPMCE Udemy\csharp-tutorial-for-beginners\Strings\Strings\bin\Debug\Strings.pdb
+E:\Dev UPMCE Udemy\csharp-tutorial-for-beginners\Strings\Strings\obj\Debug\Strings.exe
+E:\Dev UPMCE Udemy\csharp-tutorial-for-beginners\Strings\Strings\obj\Debug\Strings.pdb
