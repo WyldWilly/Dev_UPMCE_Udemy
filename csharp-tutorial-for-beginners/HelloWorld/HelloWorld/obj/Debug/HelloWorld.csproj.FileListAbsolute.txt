@@ -1,0 +1,7 @@
+E:\GIT_UPMCE\CSharpFundCourse\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\GIT_UPMCE\CSharpFundCourse\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\GIT_UPMCE\CSharpFundCourse\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\GIT_UPMCE\CSharpFundCourse\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+E:\GIT_UPMCE\CSharpFundCourse\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\GIT_UPMCE\CSharpFundCourse\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\GIT_UPMCE\CSharpFundCourse\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
