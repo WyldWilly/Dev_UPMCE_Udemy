@@ -1,0 +1,7 @@
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\Enums\Enums\bin\Debug\Enums.exe.config
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\Enums\Enums\bin\Debug\Enums.exe
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\Enums\Enums\bin\Debug\Enums.pdb
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\Enums\Enums\obj\Debug\Enums.csprojAssemblyReference.cache
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\Enums\Enums\obj\Debug\Enums.exe
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\Enums\Enums\obj\Debug\Enums.pdb
