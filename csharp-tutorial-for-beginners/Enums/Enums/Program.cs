@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Enums
 {
 
-    public enum shippingMethod
+    public enum ShippingMethod
     {
         RegularAirMail = 1,
         RegisteredAirMail = 2,
@@ -18,17 +18,21 @@ namespace Enums
     {
         static void Main(string[] args)
         {
-            var method = shippingMethod.Express;
+            //convert enum to and from Int
+            var method = ShippingMethod.Express;
             Console.WriteLine((int)method);
 
             var methodId = 3;
-            Console.WriteLine((shippingMethod)methodId);
+            Console.WriteLine((ShippingMethod)methodId);
 
+            //convert enum to string and from string
             Console.WriteLine(method.ToString());
-            Console.WriteLine(method); // because CW automatically casts it to string
+            Console.WriteLine(method); // because CW by default calls the ToString
 
             string methodName = "Express";
-            shippingMethod = Enum.Parse(typeof(shippingMethod), methodName);
+
+            var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName);
+            Console.WriteLine(shippingMethod);
         }
     }
 }

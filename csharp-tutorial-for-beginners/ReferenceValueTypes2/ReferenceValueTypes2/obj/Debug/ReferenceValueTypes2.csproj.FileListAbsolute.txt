@@ -1,0 +1,6 @@
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\ReferenceValueTypes2\ReferenceValueTypes2\bin\Debug\ReferenceValueTypes2.exe.config
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\ReferenceValueTypes2\ReferenceValueTypes2\bin\Debug\ReferenceValueTypes2.exe
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\ReferenceValueTypes2\ReferenceValueTypes2\bin\Debug\ReferenceValueTypes2.pdb
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\ReferenceValueTypes2\ReferenceValueTypes2\obj\Debug\ReferenceValueTypes2.csproj.CoreCompileInputs.cache
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\ReferenceValueTypes2\ReferenceValueTypes2\obj\Debug\ReferenceValueTypes2.exe
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\ReferenceValueTypes2\ReferenceValueTypes2\obj\Debug\ReferenceValueTypes2.pdb
