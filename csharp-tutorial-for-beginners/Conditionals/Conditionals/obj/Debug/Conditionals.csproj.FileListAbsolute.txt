@@ -1,0 +1,7 @@
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\Conditionals\Conditionals\bin\Debug\Conditionals.exe.config
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\Conditionals\Conditionals\bin\Debug\Conditionals.exe
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\Conditionals\Conditionals\bin\Debug\Conditionals.pdb
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\Conditionals\Conditionals\obj\Debug\Conditionals.csprojAssemblyReference.cache
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\Conditionals\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\Conditionals\Conditionals\obj\Debug\Conditionals.exe
+E:\Dev_UPMCE_Udemy\csharp-tutorial-for-beginners\Conditionals\Conditionals\obj\Debug\Conditionals.pdb
