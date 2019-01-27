@@ -45,6 +45,16 @@ public class Loopwhile {
             System.out.println(videoCourses[i]);
             i++;
         }while(i < videoCourses.length);
+
+    
+        String[] top = 
+        {"10","20","30","40","50","60","70","80","90"};
+
+        int z =0;
+        while(z < top.length){
+            System.out.println(top[z]);
+            z++;
+        }
     }
     
 }
