@@ -53,27 +53,39 @@ public class Bottle2 {
 
     }
     
-    void checkVolume(double addAmount, int selectBottle)
+    static boolean checkVolume(Bottle2 bottle, int addAmount)
     {
         // What amount is going in
             // What amount - Send addAmoount
             // Which Bottle - Send the Bottle
-        this.waterAmount = addAmount;
-        this.whichBottle = selectBottle;
+        //this.waterAmount = addAmount;
+        
+        if (bottle.bVolume >= addAmount)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+        //this.whichBottle = selectBottle;
+        
         
         // What is the Total Volume
         
         // What is the current amount
-        int A = bottle[whichBottle].getWaterAmouont();
+        //int A = bottle[whichBottle].getWaterAmouont();
         
         // Decide
+
     
     }
     
     
     // Main
     public static void main(String[] args) {
-        
+    
+// ---------------------- Assignment -------------------------------------------    
         //Change to For Loop for initialization
         Bottle2[] bottle = new Bottle2[3];
         
@@ -93,6 +105,34 @@ public class Bottle2 {
             System.out.println("Bottle" + k + " holds " + bottle[k].bVolume + " and has " + bottle[k].getWaterAmouont());
         }
         
+        // Adding and using new Method
+        System.out.println();
+        Scanner input = new Scanner(System.in);
+        System.out.print("How much fluid to add: ");
+        int addAmount = input.nextInt();
+        System.out.println();
+        System.out.print("Which Bottle (0, 1, 2)");
+        int selectBottle = input.nextInt();
+        
+        if(checkVolume(bottle[selectBottle], addAmount))
+        {
+            
+        }
+        
+        //bottle[selectBottle].checkVolume(addAmount, selectBottle);
+        
+        
+/*
+And now I'd like you to train a bit more.
+I like to create here another property dad will represent the mind the capacity of bottle right because
+right now we can put as much water as we want into bottle.
+And I would like you to you know check in the film that he we didn't exceed the capacity and I would
+like to also you know but it we're in the same time I get here right.
+That's why we are using these methods here so we don't need to check two times condition here and here
+the same conditions.
+*/        
+        
+// ------------------------------------------------------------------------------        
 //        bottle[0] = new Bottle(10);
 //        bottle[1] = new Bottle(5);
 //        bottle[2] = new Bottle(1);
@@ -110,23 +150,7 @@ public class Bottle2 {
 //        System.out.println("Transferring now");
 //        System.out.println("Bottle 0 has " + bottle[0].getWaterAmouont());
 //        System.out.println("Bottle 1 has " + bottle[1].getWaterAmouont());
-
-          // Adding and using new Method
-          Scanner input = new Scanner(System.in);
-          System.out.println("Please enter your age: ");
-          int addAmount = input.nextInt();
-          System.out.println("Which Bottle /(0/, 1/, 2/)");
-          int selectBottle = input.nextInt();
     }
     
 }
 
-/*
-And now I'd like you to train a bit more.
-I like to create here another property dad will represent the mind the capacity of bottle right because
-right now we can put as much water as we want into bottle.
-And I would like you to you know check in the film that he we didn't exceed the capacity and I would
-like to also you know but it we're in the same time I get here right.
-That's why we are using these methods here so we don't need to check two times condition here and here
-the same conditions.
-*/
