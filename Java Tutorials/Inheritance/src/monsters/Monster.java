@@ -4,15 +4,37 @@ package monsters;
 /* @author costantiniwm */
 
 
-public class Monster // Base Class, Super Class or Parent Class
+public abstract class Monster // Base Class, Super Class or Parent Class
 {
-    public double hitPoints;
-    public double speed;
+    private double hitPoints;
+    private double speed;
+    
+    protected double getHitPoints()
+    {
+        return hitPoints;
+    }
+    
+    protected void setHitPoints(double hitPoints)
+    {
+        this.hitPoints = hitPoints;
+    }
+    
+    protected double getSpeed()
+    {
+        return speed;
+    }
     
     public void attack()
     {
         /* Here is script that attacks */
         System.out.println("I am attacking from Monster Class Method");
+    }
+    
+    abstract protected void description();
+    
+    public void test()
+    {
+        System.out.println("BAM!!");
     }
     
     public Monster() // Default

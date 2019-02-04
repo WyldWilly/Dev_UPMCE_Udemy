@@ -8,6 +8,15 @@ public class Skeleton extends Monster // Derived Class, Sub Class or Child Class
 {
     public String typeOfAttack;
     
+    
+    @Override
+    // Overloading would mean public void attack(String typeOfAttack)
+    public void attack()
+    {
+        super.attack();
+        System.out.println("I am attack method from Skeleton class ");
+    }    
+    
     public Skeleton()
     {
         System.out.println("I am constructor from Skeleton class DEFAULT");
@@ -31,5 +40,10 @@ public class Skeleton extends Monster // Derived Class, Sub Class or Child Class
         System.out.println("I'm constructor from Skeleton class with 3 arguments");
         this.typeOfAttack = typeOfAttack;
         
+    }
+
+    @Override
+    protected void description() {
+
     }
 }
