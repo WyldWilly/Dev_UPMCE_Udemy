@@ -12,9 +12,24 @@ public class Main {
         Person[] people = new Person[4]; // reserves memory for 4 people as null
         people[0] = new Employee("Jake", "Jones", 100000);
         people[1] = new Student("Sally", "Jones");
+        people[2] = new Employee("John", "Desmond", 250000);
+        people[3] = new Student("Tim", "Daniels");
         
-        people[0].getDescription();
-        people[1].getDescription();
+        
+        for(int i=0; i< people.length; i++)
+        {
+           if (people[i] instanceof Person)
+                people[i].getDescription();
+           else
+               break;
+        }
+        
+        for(int j =0; j < people.length; j++)
+        {
+            if(people[j] instanceof Employee)
+            ((Employee)people[j]).work();
+        
+        }
         
     
     }
@@ -55,7 +70,12 @@ class Employee extends Person
         System.out.println("I am an employee");
         System.out.println("Name: " + this.name + " " + this.surname);
         System.out.println("Salary " + this.salary);
+        System.out.println("--------------------");
 
+    }
+        void work()
+    {
+        System.out.println("I'm working");
     }
 }
 
@@ -72,6 +92,6 @@ class Student extends Person
     {
         System.out.println("I am a student");
         System.out.println("Name: " + this.name + " " + this.surname);
+        System.out.println("--------------------");
     }
-    
 }
