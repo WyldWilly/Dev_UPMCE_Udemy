@@ -47,7 +47,11 @@ class Point
 
     public boolean equals(Object o)
     {
+        if (this == o)
+            return true;
         if (o == null)
+            return false;
+        if (this.getClass() != o.getClass())
             return false;
         Point sentPoint = (Point)o;
         return this.x == sentPoint.x && this.y == sentPoint.y;
