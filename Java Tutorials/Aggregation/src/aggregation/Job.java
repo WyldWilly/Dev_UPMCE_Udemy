@@ -1,0 +1,6 @@
+
+package aggregation;
+
+class Job {
+
+}

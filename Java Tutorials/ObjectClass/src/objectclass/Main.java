@@ -11,14 +11,19 @@ public class Main {
 //        ;System.out.println(p.getClass());
 //        if (p.equals(p2))
 //            System.out.println("They are equal");
-       Object[] p = new Point[4];
+       Object[] p = new Point[7];
        p[0] = new Point(4, 55);
        p[1] = new Point(2, 55);
        p[2] = new Point(4, 2);
        p[3] = new Point(12, 55);
        
-        System.out.println(p[0].equals(p[1]));
-
+        //System.out.println(p[0].equals(p[1]));
+        //System.out.println(p[0]);
+        for (int i = 0; i < p.length; i++)
+        {
+            if (p[i] instanceof Point)
+            System.out.println(p[i]);
+        }
     }
     
 }
@@ -45,6 +50,7 @@ class Point
         return y;
     }
 
+    @Override
     public boolean equals(Object o)
     {
         if (this == o)
@@ -55,7 +61,12 @@ class Point
             return false;
         Point sentPoint = (Point)o;
         return this.x == sentPoint.x && this.y == sentPoint.y;
-            
+    }
+    @Override
+    public String toString()
+    {
+        //return "Whatever";
+        return getX() + " " + getY();
     }
     
 }
